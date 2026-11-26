@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://rizztixxpaynthra.onrender.com/api",
+  baseURL: "https://rizztixxpaybackend.onrender.com/api",
   withCredentials: true,
 });
 
